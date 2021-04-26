@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Thinkpad T440s\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Thinkpad T440s\\.nuget\\packages"
+    ]
+  }
+}
